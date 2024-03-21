@@ -15,7 +15,7 @@ body {
 }
 /* header */
 .top-header {
-  background-color: #3D3B40;
+  background-color: #1e21fa;
   padding: 10px;
 }
 
@@ -34,7 +34,7 @@ body {
 nav {
   display: flex;
   justify-content: space-between;
-  background-color: #525ceb;
+  background-color: #99a0ff;
   padding: 15px;
   font-weight: 700;
 }
@@ -161,7 +161,7 @@ li{
 }
  
 #button1 {
-  background-color: #24a0ed;
+  background-color: #2cbc00;
 }
 
 #button2 {
